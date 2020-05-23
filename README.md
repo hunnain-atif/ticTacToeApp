@@ -9,5 +9,5 @@ After every move the app checks to see if a user has won and then displays a gam
 - Grid Layout 
 
 ## Next Steps
-[] - Update tokens to let users choose their color or icon
-[] - Redesign and adapt to create a Connect 4 style game
+- [ ] Update tokens to let users choose their color or icon
+- [ ] Redesign and adapt to create a Connect 4 style game
